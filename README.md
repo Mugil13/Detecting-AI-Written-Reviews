@@ -30,20 +30,24 @@ pip install -r requirements.txt
 Download the colab notebook file given above and the datasets
 
 ## Results
-Model	Language	Precision (AI)	Recall (AI)	F1 (AI)
-mBERT	Tamil	0.94	0.95	0.94
-XLM-R	Tamil	0.95	0.96	0.92
-mBERT	Malayalam	0.91	0.93	0.68
-XLM-R	Malayalam	0.93	0.94	0.75
+
+| Model    | Language   | Precision (AI) | Recall (AI) | F1 (AI) |
+|----------|------------|----------------|-------------|---------|
+| mBERT    | Tamil      | 0.94           | 0.95        | 0.94    |
+| XLM-R    | Tamil      | 0.95           | 0.96        | 0.92    |
+| mBERT    | Malayalam  | 0.91           | 0.93        | 0.68    |
+| XLM-R    | Malayalam  | 0.93           | 0.94        | 0.75    |
 
 ## Citation
-bibtex
+
+```bibtex
 @inproceedings{srihari2025detecting,
   title={Detecting AI-Written Reviews for Consumer Trust},
   author={Srihari V K and Vijay Karthick Vaidyanathan and Mugilkrishna D U and Durairaj Thenmozhi},
   booktitle={Proceedings of DravidianLangTech@NAACL 2025},
   year={2025}
 }
+```
 
 ## License
 
