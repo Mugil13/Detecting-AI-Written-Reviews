@@ -43,7 +43,7 @@ Download the colab notebook file given above and the datasets
 ```bibtex
 @inproceedings{srihari2025detecting,
   title={Detecting AI-Written Reviews for Consumer Trust},
-  author={Srihari V K and Vijay Karthick Vaidyanathan and Mugilkrishna D U and Durairaj Thenmozhi},
+  author={Srihari V K, Vijay Karthick Vaidyanathan, Mugilkrishna D U and Durairaj Thenmozhi},
   booktitle={Proceedings of DravidianLangTech@NAACL 2025},
   year={2025}
 }
